@@ -1,0 +1,4 @@
+/sbin/ping www.yahoo.com
+ls
+ls -a
+exit
