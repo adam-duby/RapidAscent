@@ -1,0 +1,8 @@
+# ron.swanson session on 10.10.10.6 at 23-May 5:41
+whoami
+cd ~/Documents/
+nano parks_and_recreation.txt
+echo "I once watched a Linux kernel compile for 9 hours. It was the best nap I ever had." >> parks_and_recreation.txt
+echo "Never half-ass two things. Whole-ass one thing." >> parks_and_recreation.txt
+cat parks_and_recreation.txt
+exit
