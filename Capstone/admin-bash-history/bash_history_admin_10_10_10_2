@@ -1,0 +1,23 @@
+# Admin session on 10.10.10.2 at 23-May 20:01
+whoami
+hostname
+df -h
+free -m
+uptime
+sudo apt update && sudo apt upgrade -y
+sudo systemctl restart backupd
+ls /var/backups/
+echo 'Backup check complete.'
+exit
+
+# Admin session on 10.10.10.2 at 24-May 8:51
+whoami
+hostname
+df -h
+free -m
+uptime
+sudo apt update && sudo apt upgrade -y
+sudo systemctl restart backupd
+ls /var/backups/
+echo 'Backup check complete.'
+exit
