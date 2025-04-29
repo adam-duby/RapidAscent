@@ -1,0 +1,7 @@
+# spider.woman session on 10.10.10.4 at 22-May 8:59
+cd ~/workspace/autonav_project_v1
+code .
+make build
+./bin/autonav_test
+git pull origin main
+exit
