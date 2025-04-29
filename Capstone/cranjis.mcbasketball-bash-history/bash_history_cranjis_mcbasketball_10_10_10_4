@@ -1,0 +1,11 @@
+# cranjis.mcbasketball session on 10.10.10.4 at 24-May 8:09
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
+
+# cranjis.mcbasketball session on 10.10.10.4 at 24-May 13:08
+whoami
+git status
+make && make test || echo 'fix this later'
+exit
