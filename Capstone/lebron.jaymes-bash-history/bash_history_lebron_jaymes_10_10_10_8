@@ -1,0 +1,15 @@
+# lebron.jaymes session on 10.10.10.8 at 22-May 8:32
+whoami
+cd ~/code/avionicss
+cdd ~/code/avionics
+cd ~/code/avionics
+vim flight_crontroller.cpp
+vim flight_controller.cpp
+make && ./flight_controller_test || echo 'ugh'
+git sttaus
+git status
+git add .
+git commit -m 'floppy update again...'
+echo 'WHY is this still failing?!' >> ~/rage_notes.txt
+git push origin main
+exit

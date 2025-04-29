@@ -1,0 +1,63 @@
+# lebron.jaymes session on 10.10.10.3 at 20-May 8:26
+whoami
+cd ~/code/avionicss
+cdd ~/code/avionics
+cd ~/code/avionics
+vim flight_crontroller.cpp
+vim flight_controller.cpp
+make && ./flight_controller_test || echo 'ugh'
+git sttaus
+git status
+git add .
+git commit -m 'floppy update again...'
+echo 'WHY is this still failing?!' >> ~/rage_notes.txt
+git push origin main
+exit
+
+# lebron.jaymes session on 10.10.10.3 at 20-May 13:57
+whoami
+cd ~/code/avionicss
+cdd ~/code/avionics
+cd ~/code/avionics
+vim flight_crontroller.cpp
+vim flight_controller.cpp
+make && ./flight_controller_test || echo 'ugh'
+git sttaus
+git status
+git add .
+git commit -m 'floppy update again...'
+echo 'WHY is this still failing?!' >> ~/rage_notes.txt
+git push origin main
+exit
+
+# lebron.jaymes session on 10.10.10.3 at 21-May 8:06
+whoami
+cd ~/code/avionicss
+cdd ~/code/avionics
+cd ~/code/avionics
+vim flight_crontroller.cpp
+vim flight_controller.cpp
+make && ./flight_controller_test || echo 'ugh'
+git sttaus
+git status
+git add .
+git commit -m 'floppy update again...'
+echo 'WHY is this still failing?!' >> ~/rage_notes.txt
+git push origin main
+exit
+
+# lebron.jaymes session on 10.10.10.3 at 21-May 13:20
+whoami
+cd ~/code/avionicss
+cdd ~/code/avionics
+cd ~/code/avionics
+vim flight_crontroller.cpp
+vim flight_controller.cpp
+make && ./flight_controller_test || echo 'ugh'
+git sttaus
+git status
+git add .
+git commit -m 'floppy update again...'
+echo 'WHY is this still failing?!' >> ~/rage_notes.txt
+git push origin main
+exit
