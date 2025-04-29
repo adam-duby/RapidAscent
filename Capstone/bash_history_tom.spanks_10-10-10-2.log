@@ -1,0 +1,19 @@
+cd ~/projects
+git clone https://github.com/Foxy/foxy-sdk
+cd foxy-sdk
+git checkout dev-branch
+git pull origin dev-branch
+code .
+ls -la
+git status
+git commit -am 'fix: updated actuator control logic'
+git push origin dev-branch
+cd ..
+mkdir backup_foxy
+cp -r foxy-sdk backup_foxy/
+cd backup_foxy/foxy-sdk
+make clean && make all
+sudo systemctl restart foxyd
+uptime
+htop
+exit
