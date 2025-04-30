@@ -1,4 +1,5 @@
 235 10.10.10.4 TCP_HIT/200 1266 GET https://x.com/deborahorcredit - HIER_DIRECT/182.150.166.32 application/javascript
+235 10.10.10.4 TCP_HIT/200 1266 GET https://x.com/deborahorcredit/status/1915565883063218537
 280 10.10.10.4 TCP_MISS/200 532 GET https://www.google.com/search?q=parks+and+recreation+quotes - HIER_DIRECT/238.159.124.18 application/javascript
 163 10.10.10.4 TCP_HIT/200 1959 GET https://www.google.com/search?q=how+to+cook+steak+with+only+salt - HIER_DIRECT/13.228.232.50 text/html
 104 10.10.10.4 TCP_MISS/200 3479 GET https://www.google.com/search?q=deborah+orcredit+linkedin - HIER_DIRECT/159.43.184.22 text/html
